@@ -20,7 +20,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='Cleaned_DS_Jobs' name='excel-direct.17h37740lufd0719tw0ts1hs5aez'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/shivam/Downloads/Cleaned_DS_Jobs.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/shivam/Downloads/epgdaba/Term 1/Data Visualization/dashboard/Cleaned_DS_Jobs.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.17h37740lufd0719tw0ts1hs5aez' name='Cleaned_DS_Jobs' table='[Cleaned_DS_Jobs$]' type='table'>
